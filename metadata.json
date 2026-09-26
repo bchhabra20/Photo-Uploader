@@ -1,0 +1,8 @@
+{
+  "name": "Wedding Photo Upload",
+  "description": "Share a private upload link that lets wedding guests easily drop photos and videos directly into your Google Drive folder without logging in, powered by Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
